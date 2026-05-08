@@ -15,6 +15,6 @@ Automatic card shuffler built using:
 - Interactive encoder-controlled stepper mode pulley system
 
 ## Authors
-Steve Mathew
-Alex Lo Faso
+Steve Mathew, 
+Alex Lo Faso, 
 Matt Garrity
